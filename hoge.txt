@@ -3,3 +3,4 @@ foo
 bar
 comment_kaigyo_no_test
 git commit --amend no test
+I am in test branch
