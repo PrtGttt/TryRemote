@@ -1,3 +1,5 @@
 huga
 foo
 bar
+comment_kaigyo_no_test
+git commit --amend no test
